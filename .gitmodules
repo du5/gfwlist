@@ -1,3 +1,6 @@
 [submodule "gfwlist"]
 	path = gfwlist
 	url = https://github.com/gfwlist/gfwlist
+[submodule "generategfwlist"]
+	path = generategfwlist
+	url = https://github.com/du5/generategfwlist
